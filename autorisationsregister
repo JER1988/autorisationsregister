@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "kilde": "SIK – autorisationsregister",
+    "kildeUrl": "https://www.sik.dk/registries/export/autorisationsregister",
+    "sidstOpdateret": "21-12-2025",
+    "note": "Data opdateres manuelt ca. 1 gang pr. uge"
+  },
+  "data": [
+    {
+      "navn": "O.K. ENTREPRISE. INGENIØR OG ENTREPRENØR ApS",
+      "adresse1": "Notgangen 8",
+      "adresse2": "",
+      "adresse3": "",
+      "landkode": "DK",
+      "postnr": "2690",
+      "postdst": "Karlslunde",
+      "cvr": "17931970",
+      "autnr": "KFUL-02572",
+      "forretningsomr": "Kloakmestervirksomhed",
+      "binavn": ""
+    }
+  ]
+}
